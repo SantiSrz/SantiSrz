@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Apasionado por la tecnología y el desarrollo de software. Me encanta explorar nuevas tecnologías, resolver problemas complejos y compartir conocimiento con la comunidad. Cuando no estoy programando, probablemente me encuentres jugando, investigando sobre hardware o practicando deportes.
+Apasionado por la tecnología y la programación. Me encanta explorar nuevas tecnologías, resolver problemas complejos y compartir conocimiento con la comunidad. Cuando no estoy programando, probablemente me encuentres jugando, investigando sobre hardware o practicando deportes.
 
 > *"Logic will get you from A to B. Imagination will take you everywhere."* — Albert Einstein
 
