@@ -1,5 +1,6 @@
 ### Hola, soy Santi 👋
-Estudiante de Ingeniería Informática de Madrid 🇪🇸.
+Estudiante de Ingeniería Informática en UNIE.
+Estas son algunas de mis estadisticas en github:
 
 ---
 
