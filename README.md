@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 Apasionado por la tecnología y la programación. Me encanta explorar nuevas tecnologías, resolver problemas complejos y compartir conocimiento con la comunidad. Cuando no estoy programando, probablemente me encuentres jugando, investigando sobre hardware o practicando deportes.
 
@@ -18,7 +18,7 @@ Apasionado por la tecnología y la programación. Me encanta explorar nuevas tec
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 <div align="center">
 
@@ -41,7 +41,7 @@ Apasionado por la tecnología y la programación. Me encanta explorar nuevas tec
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
   
@@ -58,7 +58,7 @@ Apasionado por la tecnología y la programación. Me encanta explorar nuevas tec
 
 ---
 
-## 🎯 Intereses
+## Intereses
 ```python
 intereses = {
     "código": ["Desarrollo de software", "Algoritmos", "Open Source"],
