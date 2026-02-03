@@ -1,46 +1,3 @@
-<div align="center">
-  
-  <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,100:FEC163&height=200&section=header&text=Santiago%20Suárez&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20Informático%20|%20Developer%20|%20Tech%20Enthusiast&descAlignY=55&descSize=18" />
-  
-  <!-- Typing Animation -->
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=👋+Hola!+Bienvenido+a+mi+perfil;💻+Apasionado+por+la+tecnología;🎮+Developer+%7C+Gamer+%7C+Innovador;🚀+Explorando+nuevas+fronteras" alt="Typing SVG" />
-  </p>
-  
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=SantiSrz&label=Visitas&color=FF6B9D&style=for-the-badge" alt="Profile views" />
-  
-</div>
-
-<br>
-
-<!-- About Me Section with Gradient -->
-<div align="center">
-  
-  ## 🌟 Sobre Mí
-  
-  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-  
-</div>
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Santiago Suárez Lorenzo"
-        self.role = "Ingeniero Informático"
-        self.passions = ["Código", "Gaming", "Hardware", "Deportes"]
-        self.learning = "Siempre algo nuevo"
-        self.current_focus = "Desarrollo de Software & Algoritmos"
-    
-    def say_hi(self):
-        print("¡Gracias por visitar mi perfil! 👋")
-        print("Siempre abierto a colaboraciones y nuevos desafíos")
-
-me = Developer()
-me.say_hi()
-```
-
 <div align="left">
   
 Apasionado por la **tecnología** y la **programación**. Me encanta explorar nuevas tecnologías, resolver problemas complejos y compartir conocimiento con la comunidad. Cuando no estoy programando, probablemente me encuentres jugando, investigando sobre hardware o practicando deportes.
@@ -95,17 +52,23 @@ Apasionado por la **tecnología** y la **programación**. Me encanta explorar nu
   
   ## 📊 Estadísticas de GitHub
   
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=SantiSrz&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FEC163&text_color=FFFFFF" alt="GitHub Stats" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiSrz&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF" alt="Top Languages" height="180" />
-  </p>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=SantiSrz&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FEC163&text_color=FFFFFF" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiSrz&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
   
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantiSrz&theme=radical&hide_border=true&background=0D1117&stroke=FF6B9D&ring=FEC163&fire=FF6B9D&currStreakLabel=FEC163" alt="GitHub Streak" />
-  </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantiSrz&theme=radical&hide_border=true&background=0D1117&stroke=FF6B9D&ring=FEC163&fire=FF6B9D&currStreakLabel=FEC163" alt="GitHub Streak" width="100%" />
+  
+  <br><br>
   
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantiSrz&bg_color=0D1117&color=FF6B9D&line=FEC163&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantiSrz&bg_color=0D1117&color=FF6B9D&line=FEC163&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
   
 </div>
 
