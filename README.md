@@ -20,7 +20,7 @@
   
   ## 🌟 Sobre Mí
   
-  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+  <img align="right" alt="Coding" width="410" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
   
 </div>
 
