@@ -5,7 +5,7 @@
   
   <!-- Typing Animation -->
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=👋+Hola!+Bienvenido+a+mi+perfil;💻+Apasionado+por+la+tecnología;🎮+Developer+%7C+Gamer+%7C+Innovador;🚀+Explorando+nuevas+fronteras" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=+Hola!+Bienvenido+a+mi+perfil;+Apasionado+por+la+tecnología;+Developer+%7C+Gamer+%7C+Innovador;+Explorando+nuevas+fronteras" alt="Typing SVG" />
   </p>
   
   <!-- Profile Views -->
@@ -18,9 +18,8 @@
 <!-- About Me Section with Gradient -->
 <div align="center">
   
-  ## 🌟 Sobre Mí
+  ##  Sobre Mí
   
-  <img align="right" alt="Coding" width="410" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
   
 </div>
 
@@ -34,7 +33,7 @@ class Developer:
         self.current_focus = "Desarrollo de Software & Algoritmos"
     
     def say_hi(self):
-        print("¡Gracias por visitar mi perfil! 👋")
+        print("¡Gracias por visitar mi perfil! ")
         print("Siempre abierto a colaboraciones y nuevos desafíos")
 
 me = Developer()
@@ -59,9 +58,9 @@ Apasionado por la **tecnología** y la **programación**. Me encanta explorar nu
 <!-- Tech Stack Section -->
 <div align="center">
   
-  ## 🛠️ Stack Tecnológico
+  ##  Stack Tecnológico
   
-  ### 💻 Lenguajes de Programación
+  ###  Lenguajes de Programación
   
   <p>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
@@ -71,7 +70,7 @@ Apasionado por la **tecnología** y la **programación**. Me encanta explorar nu
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   </p>
   
-  ### 🔧 Herramientas y Tecnologías
+  ###  Herramientas y Tecnologías
   
   <p>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
@@ -93,7 +92,7 @@ Apasionado por la **tecnología** y la **programación**. Me encanta explorar nu
 <!-- GitHub Stats Section -->
 <div align="center">
   
-  ## 📊 Estadísticas de GitHub
+  ##  Estadísticas de GitHub
   
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=SantiSrz&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FEC163&text_color=FFFFFF" alt="GitHub Stats" height="180" />
@@ -118,7 +117,7 @@ Apasionado por la **tecnología** y la **programación**. Me encanta explorar nu
 <!-- Interests Section -->
 <div align="center">
   
-  ## 🎯 Mis Intereses
+  ##  Mis Intereses
   
 </div>
 
@@ -126,28 +125,28 @@ Apasionado por la **tecnología** y la **programación**. Me encanta explorar nu
   <tr>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/code.png" width="60" /><br>
-      <b>💻 Código</b><br>
+      <b> Código</b><br>
       <sub>Desarrollo de Software</sub><br>
       <sub>Algoritmos</sub><br>
       <sub>Open Source</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/controller.png" width="60" /><br>
-      <b>🎮 Gaming</b><br>
+      <b> Gaming</b><br>
       <sub>Estrategia</sub><br>
       <sub>RPG</sub><br>
       <sub>Competitivo</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/electronics.png" width="60" /><br>
-      <b>🔧 Hardware</b><br>
+      <b> Hardware</b><br>
       <sub>Builds Personalizados</sub><br>
       <sub>Overclocking</sub><br>
       <sub>Nuevas Tecnologías</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/basketball.png" width="60" /><br>
-      <b>⚽ Deportes</b><br>
+      <b> Deportes</b><br>
       <sub>Vida Activa</sub><br>
       <sub>Competición</sub><br>
       <sub>Trabajo en Equipo</sub>
@@ -164,7 +163,7 @@ Apasionado por la **tecnología** y la **programación**. Me encanta explorar nu
 <!-- Connect Section -->
 <div align="center">
   
-  ## 📫 Conecta Conmigo
+  ##  Conecta Conmigo
   
   <p>
     <a href="https://www.linkedin.com/in/santiago-su%C3%A1rez-lorenzo-50258939a" target="_blank">
@@ -180,7 +179,7 @@ Apasionado por la **tecnología** y la **programación**. Me encanta explorar nu
   
   <br>
   
-  ### 💡 Siempre abierto a colaborar en proyectos interesantes y aprender cosas nuevas
+  ###  Siempre abierto a colaborar en proyectos interesantes y aprender cosas nuevas
   
   <br>
   
@@ -201,10 +200,10 @@ Apasionado por la **tecnología** y la **programación**. Me encanta explorar nu
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,100:FEC163&height=120&section=footer" />
   
   <p>
-    <img src="https://img.shields.io/badge/Made_with-❤️-FF6B9D?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Powered_by-Coffee_☕-FEC163?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Made_with--FF6B9D?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Powered_by-Coffee_-FEC163?style=for-the-badge" />
   </p>
   
-  **⭐ Si te gusta mi trabajo, ¡no olvides darle una estrella a mis proyectos!**
+  ** Si te gusta mi trabajo, ¡no olvides darle una estrella a mis proyectos!**
   
 </div>
